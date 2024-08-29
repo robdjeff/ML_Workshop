@@ -8,12 +8,12 @@ RFClassification_Student.ipynb
 *  A notebook that you can run along with me to demonstrate various features of coding
 
 RFStellar_Classifier_Student.ipynb
-*  An exercise for you to try based on classification of SDSS sources. A solution will follow.
+*  An exercise for you to try based on classification of SDSS sources. A "solution" will follow.
 
 
 # Installation and Use
 
-Click on the dropdown menu <Code> and select "download zip file".
+Click on the dropdown menu "<> Code" and select "Download ZIP".
 
 Unzip this to a location that your Jupyter notebook installation can see it.
 
@@ -22,7 +22,8 @@ That's it.
 
 # Some Details
 
-These codes require a number of packages to be installed and were tested using these specific versions.  
+These codes require a number of packages to be installed and were tested using these specific versions.  (Other versions will probably work fine)  
+
 python 3.8.8  
 scikit-learn 0.24.1  
 seaborn 0.11.1  
