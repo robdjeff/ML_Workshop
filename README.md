@@ -10,6 +10,16 @@ RFClassification_Student.ipynb
 RFStellar_Classifier_Student.ipynb
 *  An exercise for you to try based on classification of SDSS sources. A solution will follow.
 
+
+# Installation and Use
+
+Click on the dropdown menu <Code> and select "download zip file".
+
+Unzip this to a location that your Jupyter notebook installation can see it.
+
+That's it.
+
+
 # Some Details
 
 These codes require a number of packages to be installed and were tested using these specific versions.  
