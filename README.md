@@ -10,6 +10,9 @@ RFClassification_Student.ipynb
 RFStellar_Classifier_Student.ipynb
 *  An exercise for you to try based on classification of SDSS sources. A "solution" will follow.
 
+data
+*  a folder containing some example datasets
+
 
 # Installation and Use
 
