@@ -13,6 +13,8 @@ RFStellar_Classifier_Student.ipynb
 data
 *  a folder containing some example datasets
 
+Intro-to-Machine-learning.pptx
+* a brief powerpoint to be used at the session with some attached notes
 
 # Installation and Use
 
