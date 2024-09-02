@@ -24,6 +24,8 @@ Unzip this to a location that your Jupyter notebook installation can see it.
 
 That's it.
 
+If using Google Colab rather than Jupyter notebboks, then you will need to upload the .ipynb files and the .csv files in the data/ folder to Colab separately. You will then need to work out what the "path" is to te data and change the relevant line in the .ipynb files to upload the data from the correct place.
+
 
 # Some Details
 
