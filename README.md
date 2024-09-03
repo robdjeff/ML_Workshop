@@ -8,7 +8,10 @@ RFClassification_Student.ipynb
 *  A notebook that you can run along with me to demonstrate various features of coding
 
 RFStellar_Classifier_Student.ipynb
-*  An exercise for you to try based on classification of SDSS sources. A "solution" will follow.
+*  An exercise for you to try based on classification of SDSS sources.
+
+RFStellar_Classifier_Solution.ipynb
+*  A solution to the above.
 
 data
 *  a folder containing some example datasets
@@ -24,7 +27,7 @@ Unzip this to a location that your Jupyter notebook installation can see it.
 
 That's it.
 
-If using Google Colab rather than Jupyter notebboks, then you will need to upload the .ipynb files and the .csv files in the data/ folder to Colab separately. You will then need to work out what the "path" is to te data and change the relevant line in the .ipynb files to upload the data from the correct place.
+If using Google Colab rather than Jupyter notebboks, then you will need to upload the .ipynb files and the .csv files in the data/ folder to Colab separately. You will then need to work out what the "path" is to the data and change the relevant line in the .ipynb files to upload the data from the correct place. All the necessary packages are already installed in Colab.
 
 
 # Some Details
